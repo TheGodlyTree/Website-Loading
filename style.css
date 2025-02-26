@@ -2,11 +2,10 @@
   text-align: center;
   left: 100px;
   top: 150px;
-  width: 100px;
-  hight: 40px;
 }
 
 .button {
     position: absolute;
     top: 50%;
+    font-size: 16px;
 }
